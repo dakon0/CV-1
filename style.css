@@ -1,0 +1,57 @@
+main {
+  font-family:'Times New Roman', Times, serif;
+}
+
+.main-part{
+  margin: auto;
+  max-width:40em;
+  /* border: 3px solid green; */
+}
+
+.main-title{
+  padding: 20px 0px;
+  margin: 0 0 10px 0;
+  text-align: center;
+  font-size: 2.5em;
+  background-color: cornflowerblue;
+}
+
+.main-content {
+  margin-left: 10px;
+}
+
+.contact-data1{
+  color: gray;
+}
+
+.summary {
+  border-bottom: solid grey 1px;
+}
+
+.education{
+  border-bottom: solid grey 1px;
+}
+
+.experience{
+  border-bottom: solid grey 1px;
+}
+
+.skills{
+  border-bottom: solid grey 1px;
+}
+
+.facebook-link-div{
+  text-align: center;
+}
+
+.fa, .fa-facebook-square{
+  color:cornflowerblue;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.fa, .fa-facebook-square:hover{
+  color:cornflowerblue;
+  font-size: 2em;
+}
+
